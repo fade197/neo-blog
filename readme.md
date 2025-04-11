@@ -31,12 +31,11 @@ github地址：https://github.com/fade197/neo-blog
 
 ### 准备工作
 
-1. 从Steam下载最新版本的觅长生
-2. 从创意工坊订阅BepinEx
+無
 
-### Mod构建
+### 构建
 
-
+無
 
 ## 基于开发
 
