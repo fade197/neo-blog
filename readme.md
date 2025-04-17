@@ -4,7 +4,7 @@
 
 本博客还没完善
 
-github地址：https://github.com/fade197/neo-blog
+* [github地址](https://github.com/fade197/neo-blog)
 
 ## 功能与作用
 
