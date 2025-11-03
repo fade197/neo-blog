@@ -1,4 +1,4 @@
-# neo-blog
+# neo-blog_Unstructured individual case approach
 
 ![neo-blog](asss.png)
 
@@ -52,4 +52,5 @@
 ## 许可证
 
 还未申请
+
 
